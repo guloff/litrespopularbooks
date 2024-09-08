@@ -30,3 +30,8 @@ This dataset can be useful for:
 ## Article
 
 The data was used to create the article **"Что мы читаем и сколько это стоит: анализ раздела популярных книг сайта litres.ru"**, available [here](https://alifbo.media/chto-my-chitaem-i-skolko-eto-stoit-analiz-razdela-populyarnyh-knig-sajta-litres-ru/). The article explores the most popular books and provides insights into reading habits and book pricing on litres.ru.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for more details.
+
